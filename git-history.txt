@@ -1,0 +1,20 @@
+commits by Author: hannesku <hannes.kurth@gmx.net>
+
+
+commit 23a16ee67894b85ab791d27925172a5be67fc5e6
+    changed filename from lorem.txt to lorem_ipsum.txt
+
+commit adbc458f8c0043f5ddbde8a8b717254edddf4d11
+    added 3 lines to lorem.txt, fixed .gitignore
+
+commit ed9d3f57ab6af6302035132cbfcf26ecfc9e8e84
+    Lorem Ipsum file added
+
+commit 3b10f36d8a6edb782fe61e9595deaa2f5f5d32ac
+    add .gitignore skipping .temp and *.tmp
+
+1st commit not working:
+$ git commit -m "Initial commit"
+On branch master
+Your branch is up to date with 'origin/master'.
+
